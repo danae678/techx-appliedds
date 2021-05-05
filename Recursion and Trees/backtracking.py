@@ -1,4 +1,4 @@
-#Recursion lecture
+#Recursion lecture from the week of March 22nd
 
 def ssp(nums, target,i):
     if i>=len(nums):
