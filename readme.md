@@ -5,3 +5,6 @@
 1. Strings and arrays
 2. Associative Arrays
 3. Recursion 
+4. Trees
+5. Dynamic Programming
+6. Searching and Sorting
